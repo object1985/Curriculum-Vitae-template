@@ -4,27 +4,47 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|都内SE (とないえすいー))|
+|Blog|[都内SEのプログラミング勉強と雑記](http://tonaise.hatenablog.jp/)|
+|Twitter|[@tonaise0509](https://twitter.com/tonaise0509)|
+|Qiita|[都内SE](https://qiita.com/object1985)|
+|SlideShare|[まだありません]()|
+|Speakerdeck|[まだありません]()|
+|Linkedin|[まだありません]()|
+|facebook|[まだありません]()|
+|Paiza|[まだありません]()|
+|Code IQ|[まだありません]()|
+|dotinstall|[まだありません]()|
 
 ## スキル
+
+協調性
+率先性
+既存機能やワークフローの改善提案
+仕様把握
 
 ### 言語
 
 - プログラミング言語
-
-- 日本語
-  - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+	- Java
+		- Java SE 7 Silver
+		- Java EE
+	- JavaScript
+		- TypeScript
+		- Node.js
+		- Angular2.0
+		- Bootstrap
+		- JQuery
+		- Electron
+		- bookmarklet
+	- html
+		- markdown
+	- css
+		- SASS
 
 ### フレームワーク
 
-- Framework名
+- terasoluna
   - 関わった製品やポートフォリオがあればそのリンクを貼る
 
 ### その他
@@ -37,9 +57,15 @@
 
 ## 登壇歴
 
+なし
+
 ## 受賞歴
 
+なし
+
 ## 執筆歴
+
+なし
 
 ### 商業
 
@@ -50,10 +76,6 @@
 ### yyyy/mm - : 会社名
 
 職務: Webアプリケーションエンジニア（例）
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
 
 #### 職務内容の名前（レストラン検索とか）
 
